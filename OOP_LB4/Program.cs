@@ -3,7 +3,7 @@ using OOP_LB4._2nd;
 using OOP_LB4._3rd;
 using System.Diagnostics;
 
-namespace OOP_LB4
+namespace OOP_LB4_1_3_task
 {
     class Program
     {
@@ -65,7 +65,6 @@ namespace OOP_LB4
 
             Debug.WriteLine(new string('-', 30));
             #endregion
-
         }
     }
 }
