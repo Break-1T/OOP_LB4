@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Text;
+﻿using System.Diagnostics;
 
 namespace OOP_LB4._1st
 {
@@ -14,7 +11,7 @@ namespace OOP_LB4._1st
             this.Post = Post;
             this.Salary = Salary;
         }
-        
+
         public string Post { get; set; }
         public double Salary { get; set; }
 

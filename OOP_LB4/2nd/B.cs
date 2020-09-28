@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OOP_LB4._2nd
+﻿namespace OOP_LB4._2nd
 {
     class B
     {
         public B() { }
-        public B(double X,double Y,string Name)
+        public B(double X, double Y, string Name)
         {
             this.X = X;
             this.Y = Y;

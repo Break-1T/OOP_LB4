@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Text;
+﻿using System.Diagnostics;
 
 namespace OOP_LB4._1st
 {
     class Human
     {
         public Human() { }
-        public Human(string Name,string LastName,string Gender,int Age)
+        public Human(string Name, string LastName, string Gender, int Age)
         {
             this.Name = Name;
             this.LastName = LastName;
