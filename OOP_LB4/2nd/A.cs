@@ -2,7 +2,7 @@
 
 namespace OOP_LB4._2nd
 {
-    class A : B
+    class A
     {
         public A() { }
         public A(B b1, B b2, B b3)
